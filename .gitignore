@@ -1,0 +1,36 @@
+.bsp/
+.metals
+
+.idea/
+*.iml
+
+target/
+
+out/
+
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+project/target/
+project/project/target/
+
+.history
+.cache
+.lib/
+### Scala template
+*.class
+*.log
+
+### Eclipse template
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
