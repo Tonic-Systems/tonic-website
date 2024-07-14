@@ -10,32 +10,36 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Automate IT Processes',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Tonic provides a wide range of actions and offers robust support for
+        various services including Amazon EC2, RDS, Redshift, Route 53,
+        ElastiCache, Directory Service, as well as Azure Virtual Machines,
+        Google Compute Engine, and more.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Scheduled Cloud Backups',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Automate the creation of backups and snapshots for your instances,
+        virtual machines, disks, and databases. Additionally,
+        enable automatic deletion of outdated snapshots.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Smart Cloud Cost Reduction',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Reduce your operational costs by automating the start and stop of
+        your instances and virtual machines according to your needs.
+        Configure them to power on in the morning and shut down in the evening.
       </>
     ),
   },
