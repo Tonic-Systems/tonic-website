@@ -3,8 +3,8 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Tonic Systems',
-  tagline: 'Tonic Systems',
+  title: 'Tønic',
+  tagline: 'Revolutionising Cloud Cost Optimisation',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
