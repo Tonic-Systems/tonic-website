@@ -105,7 +105,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Tonic Systems. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Tonic Systems Pty Ltd.`,
     },
     prism: {
       theme: prismThemes.github,
