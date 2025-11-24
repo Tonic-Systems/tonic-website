@@ -18,7 +18,7 @@ jobs:
           - { version: "20.12.1" }
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - uses: actions/setup-java@v4
         with:
           java-version: ${{ matrix.scala.java-version }}
